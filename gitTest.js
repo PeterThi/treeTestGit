@@ -1,1 +1,1 @@
-console.log("elsker git yay")
+console.log("fuck jeg hader git :(")
